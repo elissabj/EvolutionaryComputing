@@ -1,3 +1,7 @@
+#Practice7
+#Elisa Ramos Gomez
+#Last modified 28/oct/2021
+
 import PIL
 import cv2
 import time
