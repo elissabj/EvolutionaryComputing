@@ -1,3 +1,7 @@
+#Fractals
+#Elisa Ramos Gomez
+#Last modification: 13 oct 2021 12:55 
+
 import cv2
 import numpy as np
 from google.colab.patches import cv2_imshow
