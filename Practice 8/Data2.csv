@@ -1,0 +1,606 @@
+﻿país Name,país Code,serie Name,serie Code,2014 [YR2014]
+Argentina,ARG,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,6.712703514
+Argentina,ARG,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.216360632
+Argentina,ARG,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2029.922825
+Argentina,ARG,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,14.40547859
+Argentina,ARG,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,5065335542
+Argentina,ARG,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,5.26E+11
+Argentina,ARG,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,-2.512615321
+Argentina,ARG,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,17.26288101
+Argentina,ARG,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,7.088182385
+Argentina,ARG,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,14.00131506
+Argentina,ARG,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,24.27739449
+Argentina,ARG,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,40.28297163
+Argentina,ARG,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,143.6158316
+Argentina,ARG,Crecimiento de la población (% anual),SP.POP.GROW,1.099461091
+Argentina,ARG,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Brasil,BRA,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,4.325610539
+Brasil,BRA,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,2.499362016
+Brasil,BRA,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1495.541141
+Brasil,BRA,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,11.01194282
+Brasil,BRA,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,87713983217
+Brasil,BRA,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.46E+12
+Brasil,BRA,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.50395574
+Brasil,BRA,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.54841076
+Brasil,BRA,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,11.71722733
+Brasil,BRA,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,13.673463
+Brasil,BRA,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,20.47246275
+Brasil,BRA,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,7.846709744
+Brasil,BRA,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,138.4511833
+Brasil,BRA,Crecimiento de la población (% anual),SP.POP.GROW,0.855795964
+Brasil,BRA,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,99.650247
+China,CHN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.55635616
+China,CHN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.592376829
+China,CHN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,3659.087795
+China,CHN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,29.6666845
+China,CHN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,5804878133
+China,CHN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.85E+12
+China,CHN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.956183052
+China,CHN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,22.70983107
+China,CHN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,11.71722733
+China,CHN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,13.673463
+China,CHN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,20.47246275
+China,CHN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,7.846709744
+China,CHN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,138.4511833
+China,CHN,Crecimiento de la población (% anual),SP.POP.GROW,0.855795964
+China,CHN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,99.650247
+Francia,FRA,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.55635616
+Francia,FRA,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.592376829
+Francia,FRA,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,3659.087795
+Francia,FRA,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,29.6666845
+Francia,FRA,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,5804878133
+Francia,FRA,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.85E+12
+Francia,FRA,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.956183052
+Francia,FRA,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,22.70983107
+Francia,FRA,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,27.62024131
+Francia,FRA,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,30.81211202
+Francia,FRA,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,17.74593967
+Francia,FRA,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.576944233
+Francia,FRA,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,101.9183391
+Francia,FRA,Crecimiento de la población (% anual),SP.POP.GROW,0.473706908
+Francia,FRA,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Alemania,DEU,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.904547675
+Alemania,DEU,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,9.10678233
+Alemania,DEU,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,3779.461921
+Alemania,DEU,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,45.61926331
+Alemania,DEU,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,19488312315
+Alemania,DEU,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,3.88E+12
+Alemania,DEU,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.209543431
+Alemania,DEU,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.37029066
+Alemania,DEU,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,17.26047692
+Alemania,DEU,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,39.00083008
+Alemania,DEU,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,27.01099599
+Alemania,DEU,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.877939854
+Alemania,DEU,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,122.1971002
+Alemania,DEU,Crecimiento de la población (% anual),SP.POP.GROW,0.416877359
+Alemania,DEU,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+India,IND,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,16.79193451
+India,IND,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,1.649327519
+India,IND,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,636.571834
+India,IND,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,22.96796301
+India,IND,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,34576643694
+India,IND,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.04E+12
+India,IND,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,7.410227605
+India,IND,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,34.26779992
+India,IND,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,9.226508963
+India,IND,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,25.95422274
+India,IND,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,27.6564012
+India,IND,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,3.331756917
+India,IND,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,72.86262075
+India,IND,Crecimiento de la población (% anual),SP.POP.GROW,1.145673402
+India,IND,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,83.58521271
+Indonesia,IDN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,13.336755
+Indonesia,IDN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,1.920799967
+Indonesia,IDN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,883.9215093
+Indonesia,IDN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,23.6659846
+Indonesia,IDN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,25120732060
+Indonesia,IDN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,8.91E+11
+Indonesia,IDN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,5.006668426
+Indonesia,IDN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,34.60034391
+Indonesia,IDN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,9.305979485
+Indonesia,IDN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,24.41419099
+Indonesia,IDN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,41.92834213
+Indonesia,IDN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,5.443174549
+Indonesia,IDN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,127.6154409
+Indonesia,IDN,Crecimiento de la población (% anual),SP.POP.GROW,1.310945245
+Indonesia,IDN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,97.01
+Italia,ITA,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.99786089
+Italia,ITA,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,5.387310957
+Italia,ITA,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2414.484002
+Italia,ITA,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,29.10882819
+Italia,ITA,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,17032744039
+Italia,ITA,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.16E+12
+Italia,ITA,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,-0.004547542
+Italia,ITA,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,16.95920181
+Italia,ITA,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,7.820628028
+Italia,ITA,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,26.21328696
+Italia,ITA,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,20.79842911
+Italia,ITA,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.913241262
+Italia,ITA,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,148.8415405
+Italia,ITA,Crecimiento de la población (% anual),SP.POP.GROW,0.917504096
+Italia,ITA,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Japón,JPN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.9966057
+Japón,JPN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,9.584053553
+Japón,JPN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,3470.763129
+Japón,JPN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,17.41865535
+Japón,JPN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,19752249424
+Japón,JPN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,4.90E+12
+Japón,JPN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.296205514
+Japón,JPN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,25.03636199
+Japón,JPN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,17.79096365
+Japón,JPN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,20.01277922
+Japón,JPN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,27.31362673
+Japón,JPN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.686294786
+Japón,JPN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,123.1631952
+Japón,JPN,Crecimiento de la población (% anual),SP.POP.GROW,-0.132694222
+Japón,JPN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+"Corea, República de",KOR,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.05667705
+"Corea, República de",KOR,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,11.54755823
+"Corea, República de",KOR,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,5289.275832
+"Corea, República de",KOR,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,47.83142087
+"Corea, República de",KOR,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,9273600000
+"Corea, República de",KOR,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,1.48E+12
+"Corea, República de",KOR,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,3.202453795
+"Corea, República de",KOR,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,29.79047863
+"Corea, República de",KOR,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,30.0603674
+"Corea, República de",KOR,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,42.78302103
+"Corea, República de",KOR,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,34.09167237
+"Corea, República de",KOR,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.906896751
+"Corea, República de",KOR,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,113.2043576
+"Corea, República de",KOR,Crecimiento de la población (% anual),SP.POP.GROW,0.628149861
+"Corea, República de",KOR,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+México,MEX,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,3.132089402
+México,MEX,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,3.808063465
+México,MEX,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1561.873342
+México,MEX,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,31.87344131
+México,MEX,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,28634961908
+México,MEX,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,1.32E+12
+México,MEX,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.849773255
+México,MEX,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,21.87150179
+México,MEX,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,20.21722101
+México,MEX,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,33.05191659
+México,MEX,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,31.49018715
+México,MEX,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,4.439719163
+México,MEX,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,87.19889276
+México,MEX,Crecimiento de la población (% anual),SP.POP.GROW,1.277686366
+México,MEX,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,99.172928
+Federación de Rusia,RUS,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,3.360605488
+Federación de Rusia,RUS,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,11.17274176
+Federación de Rusia,RUS,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,4942.875483
+Federación de Rusia,RUS,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,27.11109705
+Federación de Rusia,RUS,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,22031340000
+Federación de Rusia,RUS,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.06E+12
+Federación de Rusia,RUS,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.736267221
+Federación de Rusia,RUS,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,22.39086423
+Federación de Rusia,RUS,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,12.18386152
+Federación de Rusia,RUS,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,20.69024421
+Federación de Rusia,RUS,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,27.93152706
+Federación de Rusia,RUS,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,7.490071117
+Federación de Rusia,RUS,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,152.7878864
+Federación de Rusia,RUS,Crecimiento de la población (% anual),SP.POP.GROW,0.217642262
+Federación de Rusia,RUS,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Arabia Saudita,SAU,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.226975025
+Arabia Saudita,SAU,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,17.36316244
+Arabia Saudita,SAU,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,6905.84344
+Arabia Saudita,SAU,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,46.87529151
+Arabia Saudita,SAU,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,8011786667
+Arabia Saudita,SAU,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,7.56E+11
+Arabia Saudita,SAU,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,3.652481698
+Arabia Saudita,SAU,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,28.75058746
+Arabia Saudita,SAU,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,0.590576497
+Arabia Saudita,SAU,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,33.76517949
+Arabia Saudita,SAU,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,57.17583177
+Arabia Saudita,SAU,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-2.269998044
+Arabia Saudita,SAU,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,170.5718129
+Arabia Saudita,SAU,Crecimiento de la población (% anual),SP.POP.GROW,2.836220903
+Arabia Saudita,SAU,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+España,ESP,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.536336491
+España,ESP,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,5.18406686
+España,ESP,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2464.641291
+España,ESP,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,33.48256759
+España,ESP,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,32943256863
+España,ESP,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,1.37E+12
+España,ESP,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.383907943
+España,ESP,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,17.90200725
+España,ESP,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,6.914876033
+España,ESP,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,30.38304213
+España,ESP,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,20.08064657
+España,ESP,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-0.223368485
+España,ESP,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,108.6115962
+España,ESP,Crecimiento de la población (% anual),SP.POP.GROW,-0.298951059
+España,ESP,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Suiza,CHE,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.701291962
+Suiza,CHE,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.851838197
+Suiza,CHE,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,3059.936749
+Suiza,CHE,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,63.80969914
+Suiza,CHE,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,21003091522
+Suiza,CHE,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,7.34E+11
+Suiza,CHE,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.446845157
+Suiza,CHE,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,25.39080341
+Suiza,CHE,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,26.88887616
+Suiza,CHE,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,52.48105578
+Suiza,CHE,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,24.62257925
+Suiza,CHE,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-0.590356049
+Suiza,CHE,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,135.876155
+Suiza,CHE,Crecimiento de la población (% anual),SP.POP.GROW,1.220103973
+Suiza,CHE,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Turquía,TUR,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,6.557235473
+Turquía,TUR,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.410763371
+Turquía,TUR,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1573.769797
+Turquía,TUR,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,25.2055417
+Turquía,TUR,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,13337000000
+Turquía,TUR,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,9.39E+11
+Turquía,TUR,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,4.939715161
+Turquía,TUR,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,28.96746336
+Turquía,TUR,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,3.557398907
+Turquía,TUR,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,28.56075947
+Turquía,TUR,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,28.11666119
+Turquía,TUR,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,7.389518638
+Turquía,TUR,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,93.08443422
+Turquía,TUR,Crecimiento de la población (% anual),SP.POP.GROW,1.702643616
+Turquía,TUR,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Reino Unido,GBR,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.754961868
+Reino Unido,GBR,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,6.421598191
+Reino Unido,GBR,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2777.310987
+Reino Unido,GBR,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,28.19762449
+Reino Unido,GBR,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,58890445253
+Reino Unido,GBR,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,3.07E+12
+Reino Unido,GBR,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.862728671
+Reino Unido,GBR,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,17.37834727
+Reino Unido,GBR,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,22.44936882
+Reino Unido,GBR,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,29.75065056
+Reino Unido,GBR,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,18.547156
+Reino Unido,GBR,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.731325998
+Reino Unido,GBR,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,119.9282021
+Reino Unido,GBR,Crecimiento de la población (% anual),SP.POP.GROW,0.736463979
+Reino Unido,GBR,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Estados Unidos,USA,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.185571018
+Estados Unidos,USA,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,16.02637907
+Estados Unidos,USA,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,6960.683997
+Estados Unidos,USA,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,13.56413417
+Estados Unidos,USA,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,2.52E+11
+Estados Unidos,USA,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,1.75E+13
+Estados Unidos,USA,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.525973446
+Estados Unidos,USA,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.80624717
+Estados Unidos,USA,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,20.86079735
+Estados Unidos,USA,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,16.47411441
+Estados Unidos,USA,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,19.32882996
+Estados Unidos,USA,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.849827471
+Estados Unidos,USA,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,111.5562164
+Estados Unidos,USA,Crecimiento de la población (% anual),SP.POP.GROW,0.73336152
+Estados Unidos,USA,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Chile,CHL,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,3.731747714
+Chile,CHL,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.301488448
+Chile,CHL,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2032.933612
+Chile,CHL,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,33.11074972
+Chile,CHL,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,23558041868
+Chile,CHL,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.61E+11
+Chile,CHL,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.766739784
+Chile,CHL,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,23.24126217
+Chile,CHL,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,7.318971313
+Chile,CHL,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,32.16183812
+Chile,CHL,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,31.03520438
+Chile,CHL,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,5.906349057
+Chile,CHL,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,133.3451921
+Chile,CHL,Crecimiento de la población (% anual),SP.POP.GROW,1.061178671
+Chile,CHL,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Canadá,CAN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.586548077
+Canadá,CAN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,15.85413843
+Canadá,CAN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,7897.855615
+Canadá,CAN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,31.73657587
+Canadá,CAN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,64174605786
+Canadá,CAN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,1.81E+12
+Canadá,CAN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.870036075
+Canadá,CAN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,24.87070761
+Canadá,CAN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,15.04505966
+Canadá,CAN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,32.64208628
+Canadá,CAN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,27.13794246
+Canadá,CAN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.944598697
+Canadá,CAN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,80.72209502
+Canadá,CAN,Crecimiento de la población (% anual),SP.POP.GROW,1.005337579
+Canadá,CAN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Emiratos Árabes Unidos,ARE,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.639504607
+Emiratos Árabes Unidos,ARE,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,19.95185248
+Emiratos Árabes Unidos,ARE,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,7648.394073
+Emiratos Árabes Unidos,ARE,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,99.56083028
+Emiratos Árabes Unidos,ARE,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,11071537020
+Emiratos Árabes Unidos,ARE,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,4.03E+11
+Emiratos Árabes Unidos,ARE,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,4.284303686
+Emiratos Árabes Unidos,ARE,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,22.16843565
+Emiratos Árabes Unidos,ARE,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,10.35817374
+Emiratos Árabes Unidos,ARE,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,68.9314775
+Emiratos Árabes Unidos,ARE,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,52.76460836
+Emiratos Árabes Unidos,ARE,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-0.905520847
+Emiratos Árabes Unidos,ARE,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,182.5342367
+Emiratos Árabes Unidos,ARE,Crecimiento de la población (% anual),SP.POP.GROW,0.176775198
+Emiratos Árabes Unidos,ARE,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Dinamarca,DNK,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.382462598
+Dinamarca,DNK,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,6.336521381
+Dinamarca,DNK,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2872.573547
+Dinamarca,DNK,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,54.61313944
+Dinamarca,DNK,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,6577348987
+Dinamarca,DNK,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,3.53E+11
+Dinamarca,DNK,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.619393811
+Dinamarca,DNK,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.09102058
+Dinamarca,DNK,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,15.71848209
+Dinamarca,DNK,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,47.65077691
+Dinamarca,DNK,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,19.78499589
+Dinamarca,DNK,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.032108578
+Dinamarca,DNK,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,126.4121686
+Dinamarca,DNK,Crecimiento de la población (% anual),SP.POP.GROW,0.507053283
+Dinamarca,DNK,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Croacia,HRV,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.987158078
+Croacia,HRV,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,3.855238394
+Croacia,HRV,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1897.840665
+Croacia,HRV,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,43.29294486
+Croacia,HRV,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,3184022339
+Croacia,HRV,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,57639588806
+Croacia,HRV,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,-0.341452517
+Croacia,HRV,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,18.94628755
+Croacia,HRV,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,10.43897802
+Croacia,HRV,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,43.67718915
+Croacia,HRV,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,21.61552946
+Croacia,HRV,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.140631117
+Croacia,HRV,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,104.8370208
+Croacia,HRV,Crecimiento de la población (% anual),SP.POP.GROW,-0.407343185
+Croacia,HRV,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Grecia,GRC,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,3.581841268
+Grecia,GRC,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,6.385178381
+Grecia,GRC,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2123.897891
+Grecia,GRC,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,32.46481686
+Grecia,GRC,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,2697339246
+Grecia,GRC,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.35E+11
+Grecia,GRC,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.698145275
+Grecia,GRC,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,11.90246692
+Grecia,GRC,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,11.4963461
+Grecia,GRC,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,34.01895325
+Grecia,GRC,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,14.11377712
+Grecia,GRC,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-1.946700021
+Grecia,GRC,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,113.4854734
+Grecia,GRC,Crecimiento de la población (% anual),SP.POP.GROW,-0.66611329
+Grecia,GRC,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Islandia,ISL,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,5.277859894
+Islandia,ISL,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,6.261721637
+Islandia,ISL,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,17916.12042
+Islandia,ISL,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,51.51909795
+Islandia,ISL,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,766775539
+Islandia,ISL,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,17867662178
+Islandia,ISL,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.687215018
+Islandia,ISL,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,17.22365759
+Islandia,ISL,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,17.12339434
+Islandia,ISL,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,45.14649394
+Islandia,ISL,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,20.79181745
+Islandia,ISL,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,4.141651945
+Islandia,ISL,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,112.6152638
+Islandia,ISL,Crecimiento de la población (% anual),SP.POP.GROW,1.112504755
+Islandia,ISL,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Líbano,LBN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,4.019752258
+Líbano,LBN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,3.983359969
+Líbano,LBN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1196.866306
+Líbano,LBN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,23.73678187
+Líbano,LBN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,2862509427
+Líbano,LBN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,48134486625
+Líbano,LBN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.461361188
+Líbano,LBN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,24.94671122
+Líbano,LBN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,2.521160938
+Líbano,LBN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,56.01525199
+Líbano,LBN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,16.20695963
+Líbano,LBN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.146769732
+Líbano,LBN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,70.07257895
+Líbano,LBN,Crecimiento de la población (% anual),SP.POP.GROW,5.719124107
+Líbano,LBN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Mozambique,MOZ,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,23.93493466
+Mozambique,MOZ,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,0.170051257
+Mozambique,MOZ,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,442.6647268
+Mozambique,MOZ,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,31.28403958
+Mozambique,MOZ,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,4998799334
+Mozambique,MOZ,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,17716084108
+Mozambique,MOZ,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,7.398512797
+Mozambique,MOZ,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,52.85512391
+Mozambique,MOZ,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,5.716550982
+Mozambique,MOZ,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,80.18113507
+Mozambique,MOZ,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,17.3251203
+Mozambique,MOZ,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.210685315
+Mozambique,MOZ,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,70.31310851
+Mozambique,MOZ,Crecimiento de la población (% anual),SP.POP.GROW,2.798573225
+Mozambique,MOZ,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,24.8
+Montenegro,MNE,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,8.099835682
+Montenegro,MNE,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,3.570222415
+Montenegro,MNE,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1538.2641
+Montenegro,MNE,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,40.1437048
+Montenegro,MNE,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,496993506.5
+Montenegro,MNE,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,4594024180
+Montenegro,MNE,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.78368226
+Montenegro,MNE,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.22139308
+Montenegro,MNE,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,14.61958358
+Montenegro,MNE,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,59.9839152
+Montenegro,MNE,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,14.30364826
+Montenegro,MNE,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.036214473
+Montenegro,MNE,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,161.701761
+Montenegro,MNE,Crecimiento de la población (% anual),SP.POP.GROW,0.097022011
+Montenegro,MNE,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,97.7
+Noruega,NOR,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.442842524
+Noruega,NOR,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,7.451483601
+Noruega,NOR,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,5595.654625
+Noruega,NOR,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,38.99635572
+Noruega,NOR,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,3242240088
+Noruega,NOR,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,4.98E+11
+Noruega,NOR,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.969544301
+Noruega,NOR,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,27.78155599
+Noruega,NOR,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,22.37551714
+Noruega,NOR,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,29.66692711
+Noruega,NOR,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,34.03171917
+Noruega,NOR,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.290603973
+Noruega,NOR,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,111.5843116
+Noruega,NOR,Crecimiento de la población (% anual),SP.POP.GROW,1.127736677
+Noruega,NOR,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Nueva Zelandia,NZL,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,4.776857461
+Nueva Zelandia,NZL,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,7.038636112
+Nueva Zelandia,NZL,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,4553.026901
+Nueva Zelandia,NZL,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,27.98285738
+Nueva Zelandia,NZL,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,3251563602
+Nueva Zelandia,NZL,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.01E+11
+Nueva Zelandia,NZL,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,3.813831016
+Nueva Zelandia,NZL,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,22.99418964
+Nueva Zelandia,NZL,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,9.915461821
+Nueva Zelandia,NZL,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,27.18176948
+Nueva Zelandia,NZL,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,21.37759097
+Nueva Zelandia,NZL,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.413234104
+Nueva Zelandia,NZL,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,111.6577964
+Nueva Zelandia,NZL,Crecimiento de la población (% anual),SP.POP.GROW,1.661012001
+Nueva Zelandia,NZL,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Polonia,POL,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.848161922
+Polonia,POL,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,7.517152269
+Polonia,POL,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2473.406883
+Polonia,POL,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,47.21968346
+Polonia,POL,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,19776000000
+Polonia,POL,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,5.42E+11
+Polonia,POL,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,3.378578073
+Polonia,POL,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.65567505
+Polonia,POL,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,10.259811
+Polonia,POL,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,46.2508561
+Polonia,POL,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,29.19869989
+Polonia,POL,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.52187227
+Polonia,POL,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,149.3926992
+Polonia,POL,Crecimiento de la población (% anual),SP.POP.GROW,-0.074846229
+Polonia,POL,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Qatar,QAT,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.117168463
+Qatar,QAT,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,32.69353229
+Qatar,QAT,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,17922.70379
+Qatar,QAT,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,67.99811813
+Qatar,QAT,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,1040384615
+Qatar,QAT,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.06E+11
+Qatar,QAT,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,5.334323299
+Qatar,QAT,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,31.79007275
+Qatar,QAT,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,0.049124708
+Qatar,QAT,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,31.03625661
+Qatar,QAT,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,69.75794746
+Qatar,QAT,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-1.482751079
+Qatar,QAT,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,134.4268335
+Qatar,QAT,Crecimiento de la población (% anual),SP.POP.GROW,5.114901323
+Qatar,QAT,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Portugal,PRT,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.076111165
+Portugal,PRT,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.415895223
+Portugal,PRT,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2034.51263
+Portugal,PRT,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,40.215968
+Portugal,PRT,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,12045808665
+Portugal,PRT,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.30E+11
+Portugal,PRT,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.792190302
+Portugal,PRT,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,15.31661812
+Portugal,PRT,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,4.882511536
+Portugal,PRT,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,40.06633987
+Portugal,PRT,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,18.93678015
+Portugal,PRT,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,0.704596369
+Portugal,PRT,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,114.1810144
+Portugal,PRT,Crecimiento de la población (% anual),SP.POP.GROW,-0.539190467
+Portugal,PRT,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Sudáfrica,ZAF,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,2.174706761
+Sudáfrica,ZAF,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,8.213157978
+Sudáfrica,ZAF,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,2695.505776
+Sudáfrica,ZAF,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,31.46864521
+Sudáfrica,ZAF,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,5791659020
+Sudáfrica,ZAF,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,3.51E+11
+Sudáfrica,ZAF,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,1.846991604
+Sudáfrica,ZAF,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,20.49949351
+Sudáfrica,ZAF,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,6.662134573
+Sudáfrica,ZAF,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,32.9658559
+Sudáfrica,ZAF,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,26.5451353
+Sudáfrica,ZAF,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,5.547005326
+Sudáfrica,ZAF,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,145.3513872
+Sudáfrica,ZAF,Crecimiento de la población (% anual),SP.POP.GROW,1.583787396
+Sudáfrica,ZAF,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,86
+Suecia,SWE,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,1.443298194
+Suecia,SWE,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,4.03254501
+Suecia,SWE,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,4966.435921
+Suecia,SWE,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,43.26616125
+Suecia,SWE,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,-8624292984
+Suecia,SWE,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,5.82E+11
+Suecia,SWE,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.657798275
+Suecia,SWE,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,23.50411874
+Suecia,SWE,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,17.99858922
+Suecia,SWE,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,39.66737045
+Suecia,SWE,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,21.78612128
+Suecia,SWE,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.744531292
+Suecia,SWE,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,127.0363865
+Suecia,SWE,Crecimiento de la población (% anual),SP.POP.GROW,0.992219729
+Suecia,SWE,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Tailandia,THA,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,10.08892162
+Tailandia,THA,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,3.779437929
+Tailandia,THA,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,1969.001201
+Tailandia,THA,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,68.39413516
+Tailandia,THA,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,4975455660
+Tailandia,THA,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,4.07E+11
+Tailandia,THA,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,0.984468864
+Tailandia,THA,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,23.91901955
+Tailandia,THA,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,22.68617529
+Tailandia,THA,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,62.51136028
+Tailandia,THA,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,36.76304037
+Tailandia,THA,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,1.441465365
+Tailandia,THA,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,141.8728508
+Tailandia,THA,Crecimiento de la población (% anual),SP.POP.GROW,0.430842608
+Tailandia,THA,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,99.48364258
+Singapur,SGP,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.034590983
+Singapur,SGP,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,8.128380884
+Singapur,SGP,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,5121.804318
+Singapur,SGP,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,191.9535358
+Singapur,SGP,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,68698472831
+Singapur,SGP,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,3.15E+11
+Singapur,SGP,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,3.938002729
+Singapur,SGP,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,29.43000828
+Singapur,SGP,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,50.86894859
+Singapur,SGP,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,168.5137834
+Singapur,SGP,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,24.16952188
+Singapur,SGP,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,-0.269632864
+Singapur,SGP,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,146.6584963
+Singapur,SGP,Crecimiento de la población (% anual),SP.POP.GROW,1.298440178
+Singapur,SGP,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Luxemburgo,LUX,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,0.291163951
+Luxemburgo,LUX,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,17.3461629
+Luxemburgo,LUX,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,6861.106667
+Luxemburgo,LUX,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,212.6070994
+Luxemburgo,LUX,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,18892564399
+Luxemburgo,LUX,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,66103853237
+Luxemburgo,LUX,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,4.296786305
+Luxemburgo,LUX,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,19.93973207
+Luxemburgo,LUX,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,5.9724979
+Luxemburgo,LUX,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,180.1970841
+Luxemburgo,LUX,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,10.51696127
+Luxemburgo,LUX,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,2.736136905
+Luxemburgo,LUX,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,144.7027678
+Luxemburgo,LUX,Crecimiento de la población (% anual),SP.POP.GROW,2.356978705
+Luxemburgo,LUX,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,100
+Perú,PER,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,6.804247414
+Perú,PER,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,1.755046431
+Perú,PER,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,790.2168508
+Perú,PER,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,22.60697038
+Perú,PER,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,3929942910
+Perú,PER,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,2.01E+11
+Perú,PER,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.382157372
+Perú,PER,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,24.66612051
+Perú,PER,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,4.252188305
+Perú,PER,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,24.24615072
+Perú,PER,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,31.70140393
+Perú,PER,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,2.432441085
+Perú,PER,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,105.9476991
+Perú,PER,Crecimiento de la población (% anual),SP.POP.GROW,1.057019423
+Perú,PER,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,92.919989
+Túnez,TUN,"Agricultura, valor agregado (% del PIB)",NV.AGR.TOTL.ZS,9.153284262
+Túnez,TUN,Emisiones de CO2 (toneladas métricas per cápita),EN.ATM.CO2E.PC,2.605937977
+Túnez,TUN,Uso de energía (kg de equivalente de petróleo per cápita),EG.USE.PCAP.KG.OE,950.491246
+Túnez,TUN,Exportaciones de bienes y servicios (% del PIB),NE.EXP.GNFS.ZS,44.92422047
+Túnez,TUN,"Inversión extranjera directa, entrada neta de capital (balanza de pagos, US$ a precios actuales)",BX.KLT.DINV.CD.WD,1024754444
+Túnez,TUN,PIB (US$ a precios actuales),NY.GDP.MKTP.CD,47632390882
+Túnez,TUN,Crecimiento del PIB (% anual),NY.GDP.MKTP.KD.ZG,2.872822672
+Túnez,TUN,Formación bruta de capital (% del PIB),NE.GDI.TOTL.ZS,23.16970486
+Túnez,TUN,Exportaciones de productos de alta tecnología (% de las exportaciones de productos manufacturados),TX.VAL.TECH.MF.ZS,6.765407908
+Túnez,TUN,Importaciones de bienes y servicios (% del PIB),NE.IMP.GNFS.ZS,55.90183009
+Túnez,TUN,"Industria, valor agregado (% del PIB)",NV.IND.TOTL.ZS,26.88278353
+Túnez,TUN,"Inflación, índice de deflación del PIB (% anual)",NY.GDP.DEFL.KD.ZG,4.60866763
+Túnez,TUN,Suscripciones a telefonía celular móvil (por cada 100 personas),IT.CEL.SETS.P2,129.1094051
+Túnez,TUN,Crecimiento de la población (% anual),SP.POP.GROW,1.001509815
+Túnez,TUN,Acceso a la electricidad (% de población),EG.ELC.ACCS.ZS,99.8
+,,,,
+,,,,
+,,,,
+Data from Database: Indicadores del desarrollo mundial,,,,
+Last Updated: 10/28/2021,,,,
