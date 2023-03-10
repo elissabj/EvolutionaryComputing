@@ -5,8 +5,8 @@ If you wan't to know more of this topics (Spanish language), please check this l
 https://drive.google.com/file/d/1H2VfEJNmvxyQP3iDVBxPZsBzEpiWL7zR/view?usp=sharing
 
 
-#Practices
-   ##Practice 1: Dynamic Programming 
+# Practices
+   ## Practice 1: Dynamic Programming 
    DP is a paradigm that solves problems by combining subproblems once then saving the result.
    This subproblems overlapping and the principal characteristics are:
     - Using to optimizing problems.
@@ -14,16 +14,16 @@ https://drive.google.com/file/d/1H2VfEJNmvxyQP3iDVBxPZsBzEpiWL7zR/view?usp=shari
     - Each solution we can found, one solution with a local optimal value (maximum, minimum).
     - We can reconstruct which values are part of the solution.
 
-    Problems to solve:
+   Problems to solve:
     - [ ] Snapsack problem.
     - [ ] Coin Change.
     - [ ] Stairs.
     
-   ##Practice 2: Dynamic Programming 2  
+   ## Practice 2: Dynamic Programming 2  
    Problems to solve:
    - [ ] Matrix Chain Multiplication.
 
-   ##Practice 3: Genetic Algorithm 
+   ## Practice 3: Genetic Algorithm 
    It refers to a series of steps to solve a problem then when combining it with genetics, simulate
    the evolution of species to formulate the steps to follow with the same objective to solve problems.
    
